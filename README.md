@@ -1,1 +1,1 @@
-linux의 drvier와 systemclt의 문서이다.
+linux 기반으로 만든 문서이다.
